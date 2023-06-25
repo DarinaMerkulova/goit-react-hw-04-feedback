@@ -7,6 +7,7 @@ export const FeedbackList = styled.div`
 `;
 
 export const FeedbackButton = styled.button`
+  cursor: pointer;
   padding: 15px 30px;
   min-width: 100px;
   font-size: 18px;
