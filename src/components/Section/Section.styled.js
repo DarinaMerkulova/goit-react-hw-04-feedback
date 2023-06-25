@@ -1,4 +1,5 @@
-import styled from "@emotion/styled";
+import styled from '@emotion/styled';
 
 export const Title = styled.h2`
-font-size: 45px;`
+  font-size: 45px;
+`;

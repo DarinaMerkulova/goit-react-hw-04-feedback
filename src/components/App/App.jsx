@@ -5,8 +5,6 @@ import { Section } from 'components/Section/Section';
 import { Statistics } from 'components/Statistics/Statistics';
 import { Container } from './App.styled';
 
-
-
 export class App extends Component {
   state = {
     good: 0,
